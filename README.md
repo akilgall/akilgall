@@ -1,4 +1,4 @@
-Hi, I'm Aaron, a 6th year graduate student studying Physics at the University of Oregon.
+Hi, I'm Aaron, a 6th year graduate student studying Physics at the University of Oregon.  Here are some highligted software projects that I have designed and implemented.
 
 ### Highlighted Machine Learning Project
 
